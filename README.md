@@ -176,14 +176,6 @@ The model was evaluated using a time-based split
 
 ---
 
-### 3️⃣ Account Monitoring (Optional View)
-
-- Top At-Risk Accounts
-- Portfolio Concentration Analysis
-- Interactive Filters
-
----
-
 ## 🔎 Key Insights
 
 - Revenue exposure is concentrated in the **Pro plan tier** in absolute terms.
@@ -228,7 +220,7 @@ The model was evaluated using a time-based split
 ```
 sql/
 notebooks/
-assets/
+schema/
 README.md
 ```
 
