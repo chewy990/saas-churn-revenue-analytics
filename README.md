@@ -175,6 +175,8 @@ The model was evaluated using a time-based split
 - Revenue at Risk by Usage Tier
 - Revenue at Risk by Customer Tenure
 - Plan-Level Exposure Segmentation
+- 
+(refer to top of document for image)
 
 ---
 
