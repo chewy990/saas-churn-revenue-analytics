@@ -165,6 +165,8 @@ The model was evaluated using a time-based split
 - Churn Risk Distribution
 - MRR Trend
 
+<img width="1199" height="799" alt="Exec Dashboard" src="https://github.com/user-attachments/assets/21e90fd7-c5c9-46d7-85cf-6edf4dd03f8a" />
+
 ---
 
 ### 2️⃣ Revenue Risk Drivers
